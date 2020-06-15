@@ -1,4 +1,4 @@
-# Titanic-Survival-Prediction---Kaggle
+# Titanic-Survival-Prediction-Kaggle
 
 This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works.
 
@@ -13,4 +13,4 @@ While there was some element of luck involved in surviving, it seems some groups
 
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
-
+https://www.kaggle.com/c/titanic
