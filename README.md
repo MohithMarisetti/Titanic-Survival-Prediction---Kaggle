@@ -14,3 +14,13 @@ While there was some element of luck involved in surviving, it seems some groups
 In this challenge, we ask you to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
 https://www.kaggle.com/c/titanic
+
+Steps to execute:
+
+1. First, Run a jupyter notebook server ($ jupyter notebook).
+2. Open the Preprocessing & visualizations.ipynb file and run all the lines. (This will generate 2 csv files preprocessed_train_data.csv & preprocessed_test_data.csv)
+3. Open the classifier you wish to try and run all the lines in that file. (This will generate a gender_submission.csv file)
+4. Upload the file on kaggle to check the accuracy of that model.
+
+Important Note:
+The accuracy may vary since the code uses GridSearch.
